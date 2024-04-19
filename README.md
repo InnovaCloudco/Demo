@@ -12,4 +12,4 @@
 - Devan Odedra: www.linkedin.com/in/devan-odedra
 - Steven Lombardo: https://www.linkedin.com/in/steven-lombardo-88aa26258/
 - Chuhan Wang: https://www.linkedin.com/in/chuhan-wang-172073259/
-- Spencer Evans: https://www.linkedin.com/in/spencer-evans-6a2b07111/
+- Spencer Evans: www.linkedin.com/in/spencer--evans
