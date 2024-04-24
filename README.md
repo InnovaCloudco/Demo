@@ -6,11 +6,15 @@
   
     -Azure:
     - User Creation: https://www.youtube.com/watch?v=bLQIQrqwUs4
+    - Azure Create: https://www.youtube.com/watch?v=cy8Qk2SZZ88
+    - Azure Capture: https://www.youtube.com/watch?v=OmpOcJTHTpc
+    - Azure Destroy: https://www.youtube.com/watch?v=ONlnjdn5rWw
 
     -Aws:
     - User Creation: https://www.youtube.com/watch?v=bLQIQrqwUs4
     - Aws Capture: https://www.youtube.com/watch?v=0ktRugW2Kuw
-    - 
+    - Aws Destroy: https://www.youtube.com/watch?v=SZavrT1oA8E
+    - Aws Create: https://www.youtube.com/watch?v=wN6QtfvoEow
 
 # These videos demonstrate the proof of concept for our project "Hephaestus" and the four main functions of the project:
 - Creating New Infrastructure
