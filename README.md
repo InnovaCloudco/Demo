@@ -1,4 +1,7 @@
 # Demo
+-Our more in depth/technical demomstration videos are attached to this youtube channel, we recommend taking a look and vewing these videos as they give more insight of how Hephaestus works.
+- https://www.youtube.com/channel/UCDybamGUax3YrRgStrWn-Ew
+- 
 
 # These videos demonstrate the proof of concept for our project "Hephaestus" and the four main functions of the project:
 - Creating New Infrastructure
